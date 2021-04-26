@@ -71,11 +71,11 @@ public class primeiraClasse {
 
         Aluno aluno6= new Aluno();
         aluno6.setNome("Alex");
-        aluno6.setNumeroCPF("123");
+        //aluno6.setNumeroCPF("123");
 
         Aluno aluno7= new Aluno();
         aluno7.setNome("Alex");
-        aluno1.setNumeroCPF("123");
+        //aluno1.setNumeroCPF("123");
 
         if(aluno1.equals(aluno2)){
             System.out.println("Alunos são iguais");

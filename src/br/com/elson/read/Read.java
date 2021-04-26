@@ -1,4 +1,4 @@
-package br.com.elson;
+package br.com.elson.read;
 
 import java.util.Scanner;
 
